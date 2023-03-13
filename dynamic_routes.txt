@@ -1,0 +1,25 @@
+# Dynamic-Routes-Part-1
+task 8
+Dynamic routing, also called adaptive routing, is a process where a router can forward data via a different route for a given destination based on the current conditions of the communication circuits within a system.
+
+Routing is a procedure of making decisions in which the router (which is a hardware device used in networking to receive and send data in the form of packets on a network) selects the best path to make data transfer from source to destination. A router exists in the network layer in the OSI as well as TCP/IP model. Some functions of a router are:
+
+Building an optimal path on a network to reach its destination (in which static and dynamic routing take place).
+Taking routing decisions.
+Balancing load.
+Types of Routing:
+Static routing
+Default routing
+Dynamic routing
+Static and Default routing has some drawbacks, due to which Dynamic Routing was introduced.
+
+Drawbacks of Static Routing:
+It is a burdensome task to sum up or add-on each route manually to the routing map in a large network.
+Managing its ordering is time-consuming.
+It cannot reroute traffic in case some link fails.
+Drawbacks of Default routing was:
+If the network is complex then it is more difficult to set up.
+To overcome the shortcomings of static and default routing, Back in the 1980s, the first-ever Dynamic routing was used in a computer and the protocol which was used in it was the RIP(routing information protocol). 
+
+Dynamic Routing
+Dynamic routing is known as a technique of finding the best path for the data to travel over a network in this process a router can transmit data through various different routes and reach its destination on the basis of conditions at that time of communication circuits.
